@@ -15,6 +15,7 @@ You can install the required libraries using pip:
 pip install aiogram pyautogui psutil comtypes pycaw
 ```
 ## Bot Functionality:
+
 🟥 Turn off PC
 🧭 Restart PC
 🔊 Change volume
