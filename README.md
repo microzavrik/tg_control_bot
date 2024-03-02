@@ -16,10 +16,10 @@ pip install aiogram pyautogui psutil comtypes pycaw
 ```
 ## Bot Functionality:
 
-🟥 Turn off PC
-🧭 Restart PC
-🔊 Change volume
-🖼 Take a screenshot
-💤 Sleep PC
-🗃 View Directory
-🗑 Delete File
+- 🟥 Turn off PC
+- 🧭 Restart PC
+- 🔊 Change volume
+- 🖼 Take a screenshot
+- 💤 Sleep PC
+- 🗃 View Directory
+- 🗑 Delete File
